@@ -39,8 +39,7 @@ const destination = {
   </div>
 </div>
 
-Usage
-html
+<h2>Usage</h2>
 
 <div class="usage">
   <h3>Start the bridge:</h3>
