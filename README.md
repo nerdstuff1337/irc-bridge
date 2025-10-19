@@ -1,4 +1,4 @@
-IRC Bridge
+<h2>IRC Bridge</h2>
 
 A simple and lightweight Node.js IRC bridge that forwards messages between two IRC servers or channels.
 Features
