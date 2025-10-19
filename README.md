@@ -2,7 +2,8 @@
 
 A simple and lightweight Node.js IRC bridge that forwards messages between two IRC servers or channels.</br>
 
-<b><u>Features</u></b>
+
+<u><b>Features</b></u>
 <div class="features"> <div class="feature"> <span class="emoji">🔄</span> <strong>Simple Forwarding</strong>: Forwards all messages from source to destination without modification </div> <div class="feature"> <span class="emoji">🔒</span> <strong>SSL Support</strong>: Secure connections with SSL/TLS </div> <div class="feature"> <span class="emoji">⚡</span> <strong>Lightweight</strong>: Minimal dependencies and straightforward configuration </div> <div class="feature"> <span class="emoji">🛠️</span> <strong>Easy Setup</strong>: Simple configuration and easy to run </div> </div>
 Installation
 html
